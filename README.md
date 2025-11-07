@@ -2,7 +2,7 @@
 
 ![clipboard-image-1724034231](https://github.com/user-attachments/assets/a1f0a1ff-24ed-4643-be52-a0a7d5c32089)
 
-I hold a technical degree in Computer Science from IFBA and I'm currently pursuing a Bachelor's degree in Information Systems, with a focus on Machine Learning.
+I hold a technical degree in Computer Science from IFBA and I'm currently pursuing a Bachelor's degree in Information Systems, with a focus on Quantum Communication.
 
 ## 🔭 About Me
 
@@ -10,7 +10,7 @@ I hold a technical degree in Computer Science from IFBA and I'm currently pursui
     - Bachelor's degree in Information Systems
     - Technical degree in Computer Science from IFBA
 - 🎓 **Current Studies:** Master's degree in Computer Science
-- 🤖 **Main Interest:** Machine Learning
+- 🤖 **Main Interest:** Quantum Communication
 
 ## 📫 How to reach me:
 
