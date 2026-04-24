@@ -10,7 +10,7 @@ I hold a technical degree in Computer Science from IFBA and I'm currently pursui
     - Bachelor's degree in Information Systems
     - Technical degree in Computer Science from IFBA
 - 🎓 **Current Studies:** Master's degree in Computer Science
-- 🤖 **Main Interest:** Quantum Computing and Robotics
+- 🤖 **Main Interest:** Quantum Computing and Computer Vision
 
 ## 📫 How to reach me:
 
